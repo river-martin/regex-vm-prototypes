@@ -1,0 +1,12 @@
+[submodule "lockstep-vm"]
+	path = lockstep-vm
+	url = git@github.com:river-martin/lockstep-vm.git
+[submodule "simple-re2-vm"]
+	path = simple-re2-vm
+	url = git@github.com:river-martin/simple-re2-vm.git
+[submodule "memo-rvm"]
+	path = memo-rvm
+	url = git@github.com:river-martin/memo-rvm.git
+[submodule "rasm"]
+	path = rasm
+	url = git@github.com:river-martin/rasm.git
